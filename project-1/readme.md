@@ -16,5 +16,4 @@ Learning the Markdowns is going to take a while.
 
 ![Screenshot](./images/screenshot-1.png)
 
-I was having a hard time linking the screenshot but i finally figured it out!
-The changes are not showing up 
+I was having a hard time linking the screenshot but I finally figured it out! Still have a lot to learn.
