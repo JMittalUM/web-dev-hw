@@ -1,16 +1,20 @@
 # My First README.md
 ## Jessica Mittal-Lohse
 **Thoughts about this assignment:**
-- I first thought that it was going to be *very difficult* to accomplish anything
-- But I discovered that its not too hard when we have step by step instructions
+- I was a little confused about the assignment at first.
+- I orginally thought it was going to be *very difficult* to accomplish anything, but it wasn't too bad.
+- I've already learned a lot and we are only a few days in. Such as:
 
+1. How to name files
+2. Not to use strange characters and spacing
+3. However I'm `still not sure what code or code block is`
 
-1.  I started feeling overwhelmed with what we are asked to do but after starting I am less intimated.
-2. However the way the homework is set up is a little confusing still, I hope to have this resolved by the end of this project.
-3. I am actually starting to feel excited about this class and can't wait to see what else we learn.
+ ***
+Learning the Markdowns is going to take a while.
+[This Markdown page will help a lot!](https://guides.github.com/features/mastering-markdown/)
 ***
-`still not sure what code or code block is`
-[Art Page ](https://jessicasageart.wixsite.com/jessicasageart)
 
-![Screenshot of my Directory](./images/screenshot-1.png)
-***
+![Screenshot](./images/screenshot-1.png)
+
+I was having a hard time linking the screenshot but i finally figured it out!
+The changes are not showing up 
