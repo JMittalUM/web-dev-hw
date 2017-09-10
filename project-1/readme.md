@@ -13,3 +13,4 @@
 [Art Page ](https://jessicasageart.wixsite.com/jessicasageart)
 
 ![Screenshot of my Directory](./images/screenshot-1.png)
+***
