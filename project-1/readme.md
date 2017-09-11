@@ -34,10 +34,10 @@ Man there are so many steps!
 
 **Conclusion:**
 
-Over all I did enjoy making the Live Site after everything was figured out. I actually felt pretty proud of what I was able to accomplish! I'm starting to get the hang of this coding thing but, I definitely need to come up a system so I don't forget any steps. I also found looking at how other students are going about the assingments helps a lot. I am excited to learn more and see how creative this can get.
+Over all I did enjoy making the Live Site after everything was figured out. I actually felt pretty proud of what I was able to accomplish! I'm starting to get the hang of this coding thing but, I definitely need to come up a system so I don't forget any steps. I also found looking at how other students are going about the assignments helps a lot. I am excited to learn more and see how creative this can get.
 ***
 
 **Experience with Wayback Machine:**
 
-- I wasn't too excited about the Wayback Machine. I looked up Target and viewed it from 2000 in June. There was more content to the page than I thought. But also there was a lot of broken links throughout the page. It is strange to think how complex webpages have become... I visited a few other pages such as FreePeople and my favorite artists website.
+- I wasn't too excited about the Wayback Machine. I looked up Target and viewed it from 2000 in June. There was more content to the page than I thought. But also there was a lot of broken links throughout the page. It is strange to think how complex webpages have become... I visited a few other pages such as FreePeople and my favorite artist's website.
 - The FreePeople website back in 2000 was almost nothing but a few sentences. And while inspecting the artist page for [Kit King](https://www.kitkingart.com/) the coding kept changing/moving while I watched it.
