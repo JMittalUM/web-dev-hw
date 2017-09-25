@@ -4,5 +4,5 @@
 - I'm still not sure if there is a certain order that the coding is to follow. such as does < i > ... < /i > come before < b >..< /b > if I wanted to use both?
 ![Screenshot](./images/screenshot-2.png)
 
-- I still need work on creating proper struture and having it look clean on the screen. Another concern I had was about how to a photo to the live site. I keep redoing it and it would not work.
+- I still need work on creating proper struture and having it look clean on the screen. Another concern I had was about how to link a photo to the live site. I keep redoing it and it would not work.
 `After looking through the book I figured out how to do the image`
