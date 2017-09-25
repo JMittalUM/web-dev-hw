@@ -4,4 +4,6 @@
 - I'm still not sure if there is a certain order that the coding is to follow. such as does < i > ... < /i > come before < b >..< /b > if I wanted to use both?
 ![Screenshot](./images/screenshot-2.png)
 -I still need work on creating proper struture and having it look clean on the screen.
--Another concern I had was about how to link a video and photo to the live site. It does not work the same as the readme so I do not understand how one is suppose to go about it.
+-Another concern I had was about how to link a video and photo to the live site. It does not work the same as the readme so I do not understand how one is suppose to go about it. It worked when looking at it though the index preview but it didn't show up on the site.
+![Screenshot](./images/screenshot-3.png)
+`After looking through the book I figured out how to do the image, I'm guessing this is something that we will be learning later.`
