@@ -4,5 +4,11 @@
 - I'm still not sure if there is a certain order that the coding is to follow. such as does < i > ... < /i > come before < b >..< /b > if I wanted to use both?
 ![Screenshot](./images/screenshot-2.png)
 
-- I still need work on creating proper struture and having it look clean on the screen. Another concern I had was about how to link a photo to the live site. I keep redoing it and it would not work.
-`After looking through the book I figured out how to do the image`
+- I still need work on creating proper struture and having it look clean on the screen.
+
+---
+**Project 2 Part 2**
+- This week I struggled a lot. It was mainly with the images. In the end I feel like I kind of cheated. I ended up uploading the images to my artist website just so the images would have a valid URL. I for some strange reason could not have them work if I was going though my project-2 images folder.
+- I also keep having issues with my my form page. At first it would almost blink and then there would be nothing. I just did some minor edits and it somehow fixed it.
+- I feel this week we had a lot thrown at us. For sure learned the most this week, but I am glad that my site is slowly looking better and better. It is mindblowing how much coding can go into, what many believe, a simple thing. For example, the form page with uploading an image or creating a checkbox. So much little detailed coding is needed for something that takes the user seconds to operate.
+- One thing I would like to learn would be how to change fonts. I know we can with the opening coding. But, I'm not sure where we find the right names for the fonts. 
