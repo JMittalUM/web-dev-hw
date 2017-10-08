@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Instructable</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+     <style>
+        body {background-color: lightgrey; font-family: 'Lato', sans-serif;}
+        h1 {color: black;}
+        p {color: black;}
+     </style>
+   </head>
+   <h1> Have you made a mold before? </h1>
+   <form action="https://JMittalUM.github.io/webdev-hw/Project-2/upload.php" mehod="post" id="checkbox" class="form-class">
+     <p>Answer Below!
+        <br />
+      <input type="checkbox" name="service" value="Yes" /> Yes
+        <br />
+      <input type="checkbox" name="service" value="No" /> No
+        <br />
+        <input type="checkbox" name="service" value="No, but I want to!" checked /> No, but I want to!</p>
+       <input type="submit" name="subscribe" value="Submit" />
+       <!-- Textarea Input Box -->
+   <h2>Tell me what you think about mold and cast making:</h2>
+   <textarea name="comments"  style="min-width:100%">
+      Enter your comments:
+   </textarea>
+   <h3>Subscribe:</h3>
+   <p>
+      E-mail:
+      <input type="text" name="email" placeholder="you@mail.com" autofocus/>
+   </p>
+   </form>
+   <h2> Make a Cast!</h2>
+<form action= "https://JMittalUM.github.io/webdev-hw/Project-2/upload.php" method="post" id="upload-form" class="basic-forms">
+  <p> "Did you make a mold and casted it? Send a photo!"
+    <br>
+  </p>
+  <input type="file" name="user-image">
+  <br>
+  <input type ="submit" value="Upload">
+</form>
+</html>
