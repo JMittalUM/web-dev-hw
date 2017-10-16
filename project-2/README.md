@@ -17,7 +17,7 @@
 **Project 2 Part 3**
 - Again this week we learned a lot. I am having issues with the audio and video and can not figure out the reason why my files are not working and are not linking from my computer. If I take the files from online then they work but if they come directly from me they only partially work. I am not sure if it has something to due with the path it is trying to take to the files and something is just not typed out correctly.
 - below the screenshot first shows that it looks fine but once I press play it does not work. Still trying to figure out why this is.
-![Screenshot](./images/screenshot-3.png)
-then
 ![Screenshot](./images/screenshot-4.png)
+then
+![Screenshot](./images/screenshot-5.png)
 - I do feel over all I am learning a lot and learning some amazing skills such has how to create links to go to one page to another. I can't wait until I can really work on the skills and make them better, getting better at the basics.
