@@ -26,3 +26,18 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face{
+  font-family: 'DancingScript';
+  src:
+  url('..fonts/DancingScript-Regular.ttf') format('opentype');
+  font-weight:normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'DancingScript';
+  src:
+  url('..fonts/DancingScript-Bold.ttf') format('opentype');
+  font-weight:bold;
+  font-style: normal;
+}
