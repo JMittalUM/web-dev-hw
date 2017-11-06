@@ -1,3 +1,5 @@
-* {
+*.main-heading {
     font-family: 'Crimson', serif;
+    font-size: 3em;
+    color: black;
 }
