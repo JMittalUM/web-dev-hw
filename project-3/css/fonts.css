@@ -1,28 +1,28 @@
 @font-face {
-    font-family: 'Arvo';
+    font-family: 'CrimsonText';
     src:
-        url('../fonts/Arvo-Regular.ttf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Arvo';
-    src:
-        url('../fonts/Arvo-Italic.ttf') format('opentype');
-    font-weight: normal;
-    font-style: italic;
-}
-@font-face {
-    font-family: 'Arvo';
-    src:
-        url('../fonts/Arvo-Bold.ttf') format('opentype');
+        url('../fonts/CrimsonText-Bold.ttf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Arvo';
+    font-family: 'CrimsonText';
     src:
-        url('../fonts/Arvo-BoldItalic.ttf') format('opentype');
+        url('../fonts/CrimsonText-BoldItalic.ttf') format('opentype');
     font-weight: bold;
     font-style: italic;
+}
+@font-face {
+    font-family: 'CrimsonText';
+    src:
+        url('../fonts/CrimsonText-Italic.ttf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'CrimsonText';
+    src:
+        url('../fonts/CrimsonText-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }

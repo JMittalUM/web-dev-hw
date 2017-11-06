@@ -1,10 +1,6 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700,700i');
+</style>
 * {
-    font-family: 'Arvo', serif;
-}
-.content-p{
-  border-style: solid;
-  Border-width :3px;
-  border-color:violet;
-  padding:10p;
-  background:#373E42;
+    font-family: 'Crimson Text', serif;
 }
