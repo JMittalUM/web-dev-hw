@@ -1,6 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
 htlm{
   background-color:#lightgrey;
+  display:block;
+}
+body{
+  background-color:#5DCfA6;
+}
+body{
+  display:block;
+  margin:8px;
+  margin-top:8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  margin-left:8px;
 }
 .title a{
   font-family:'Crimson Text';
@@ -18,4 +30,15 @@ htlm{
 .title a:hover {
   color:#275cb5;
   font-style: italic;
+}
+footer{
+  background-color:#D2474D;
+  padding-top: 75px;
+  padding-right: 75px;
+  padding-bottom: 75px;
+  padding-left: 75px;
+}
+article, aside, footer, header,hgroup,main,nav,section{
+  display: block;
+
 }
