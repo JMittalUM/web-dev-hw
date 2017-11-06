@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
 htlm{
   background-color:#lightgrey;
 }
 .title a{
-  font-family:'DancingScript';
+  font-family:'Crimson Text';
   Font-style: normal;
   font-size: 400%;
   font-variant: small-caps;
