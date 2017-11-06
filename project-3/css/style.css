@@ -1,5 +1,7 @@
-*.main-heading {
-    font-family: 'Cinzel', serif;
-    font-size: 3em;
-    color: Violet;
+.content-p{
+  border-style: solid;
+  Border-width :3px;
+  border-color:violet;
+  padding:10p;
+  background:#373E42;
 }
