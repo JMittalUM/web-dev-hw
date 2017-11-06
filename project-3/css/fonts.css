@@ -1,0 +1,68 @@
+@font-face {
+    font-family: '';
+    src:
+        url('../fonts/Tangerine-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: '';
+    src:
+        url('../fonts/Tangerine-Bold.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: '';
+    src:
+        url('../fonts/YesevaOne-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: '';
+    src:
+        url('../fonts/CrimsonText-Bold.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+}
+@font-face {
+    font-family: '';
+    src:
+        url('../fonts/CrimsonText-BoldItalic.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+}
+@font-face {
+    font-family: '';
+    src:
+        url('../fonts/CrimsonText-Italic.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+}
+@font-face {
+    font-family: '';
+    src:
+        url('../fonts/CrimsonText-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+}
+@font-face {
+    font-family: '';
+    src:
+        url('../fonts/CrimsonText-SemiBold.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+}
+@font-face {
+    font-family: '';
+    src:
+        url('../fonts/CrimsonText-SemiBoldItalic.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
