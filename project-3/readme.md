@@ -1,5 +1,4 @@
-## HomeWork Project Three
-**learning about CSS**
+Home Work Project Three
 
 - this week we learned about:
 
@@ -33,7 +32,7 @@ The grey tones I used.
 For images I went with ones that were on the darker side to possbily compliment the lighter tones of the background.
 ![Screenshot](./images/color-1.png)
 ![Screenshot](./images/color-2.png)
-![Screenshot](.images/color-3.png)
+![Screenshot](./images/color-3.png)
 ---
 **Project Three Part 2
 - I truly struggled with getting links to other pages to work, iamges to work, blocks, and fonts
