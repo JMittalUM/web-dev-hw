@@ -1,4 +1,4 @@
-## Project 3
+## HomeWork Project Three
 **learning about CSS**
 
 - this week we learned about:
