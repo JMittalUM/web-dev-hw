@@ -35,7 +35,7 @@
   }
 
 header {
-  background-color: #948893;
+  background-color: #616161;
   font-family:'Crimson Text';
   Font-style: normal;
   font-size: 300%;
@@ -48,25 +48,86 @@ header {
   text-decoration: none;
   font-weight: 100;
 }
+/* Set your header design: */
+header {
+    background-color: #616161;
+    font-family: 'Crimson Text';
+    font-size: 16pt;
+    text-transform: uppercase;
+    margin: 0;
+    height: 2.15em;
+    text-align: right;
+}
+
+/* Set the layout of the menu: */
 .menu-item {
-    margin: auto;
-    padding: 0.5em;
-    min-width: 100px;
-    color: #e3e3e3;
-    background-color:rgb(136, 129, 139);
+    display: inline-block;
+    margin: 0 0;
+    min-width: 8em;
+    text-align: center;
+    background-color: #929093;
+    padding: 0.5em 0;
 }
 
+/* Style the links: */
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
 .menu-item:hover {
-    background-color:rgb(22, 22, 22);
-    color: #454545;
+    background-color: #6f5a6d;
 }
 
-.display-inline {
-    display: inline;
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0;
+    margin-top: 0.5em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #9c9c9c;
+    background-color: #282828;
 }
 title a:hover {
   color:#a1a1a1;
   font-style: italic;
+}
+h1 {
+  background-color: #616161;
+  font-family:'Crimson Text';
+  Font-style: normal;
+  font-size: 200%;
+  font-variant: small-caps;
+  line-height: 2em;
+  letter-spacing: .9em;
+  color:#948893;
+  margin: .25%
+  padding: 1%;
+  text-decoration: none;
+  font-weight: 100;
 }
   h2 {
     font-family:'Crimson Text';
@@ -113,7 +174,7 @@ title a:hover {
     width: 100%;
     min-width: 200px;
     max-width: 500px;
-    background-color: #0e0d11;
+    background-color: #c3c3c3;
     margin: auto;
 }
 
@@ -122,7 +183,7 @@ title a:hover {
     padding: 1em;
     text-align: center;
     color: #edeaf1;
-    background-color: #7f6b82;
+    background-color: #a3a3a3;
 }
 
 
