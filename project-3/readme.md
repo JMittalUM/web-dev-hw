@@ -45,7 +45,7 @@ For images I went with ones that were on the darker side to possbily compliment 
 **Project Three: Homework 06**
 **Struggles**
 - This week I am still struggling with my live site showing up instead of my Readme. I am not sure why it is bouncing back to this, being that I have an index page. The only thing I can think of is it is placed in the wrong folder.
-![Screenshot](./images/screenshot-11.png)
+![Screenshot](./images/screenshot-13.png)
 ![Screenshot](./images/screenshot-12.png)
 - I also was having issues with the logo, it would show up everywhere else except the place I wanted it to. I assume this is because my title is not in my header.
 - I also had issues trying to figure out how to do a side menu, in the end I gave up on that.
