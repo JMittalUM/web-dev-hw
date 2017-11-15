@@ -53,4 +53,3 @@ For images I went with ones that were on the darker side to possbily compliment 
 **Result**
 - I do think my site is slowly looking better but there are still things I would like to work on. I do have some missing elements to the homework and do not know how to resolve them at the moment.
 - This weeks homework was a little easier to understand and I think I accomplished a lot more. It is hard to keep up with all that is required and having the coding neat-ish.
--
