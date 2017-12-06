@@ -7,7 +7,7 @@
 **Struggles**
 - Trying to insert an image into the footer, for some strange reason it wanted to go off to the side like it was an aside. Did not reslove this but I do plan on going back and adding more information and putting in everything that I wanted.
 **Project 4 Layout**
- ![Screenshot](.images/imagerepo.png)
+ ![Screenshot](./images/imagerepo.png)
  - I wanted to use a softer color palette and thought blues, greys, and white would accomplish that.
  - I did want to insert a image but could not figure out how to insert it into the footer without it distoring the rest of the page.
  - I stayed simple with this page being that there was not a lot of information needed for the page.
